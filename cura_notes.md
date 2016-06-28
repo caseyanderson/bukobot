@@ -14,16 +14,28 @@ After configuring `Cura` for the material type and printing resolution the part 
 
 ### Parts are Usually Hollow
 
-To save material, and print faster, the interior of a part is printed in an efficient geometric pattern (frequently honeycomb-shaped), resulting in a predominantly hollow object.
+To save material, and print faster, the interior of a part is printed in an efficient geometric pattern (referred to as the `infill`), resulting in a predominantly hollow object.
 
 ## Printing Materials
 
 The Bukobot can print with either `PLA` or `ABS` material. If this is your first time using the Bukobot we recommend starting with `PLA`.
 
-`PLA` vs `ABS`:
+### `PLA` vs `ABS`:
 * `PLA` – Made from plants, is more environmentally friendly, and easier to work with than `ABS`. `PLA` is more rigid, but also more brittle than `ABS`, and does not require the printer platform to be heated.
-* `ABS` – Petroleum based, higher melting point, and easier to work with (e.g. sanding, machining, etc.) after the part is printed. More pliable than `PLA`, but not as strong. Incidentally this is the same type of plastic found in Legos
+* `ABS` – Petroleum based, higher melting point, and easier to work with (e.g. sanding, machining, etc.) after the part is printed. More pliable than `PLA`, but not as strong. Incidentally, `ABS` is the same type of plastic found in Legos.
 
+## Creating / Acquiring a Part
+
+3D Printers get information regarding a particular design via STL files. In order to print something, one must get an STL file via one of two possible methods: creating one (via some 3D Modelling application) or locating one (via some online repository).
+
+
+### Creating a Part
+
+Recommended 3D Modelling applications:
+* [TinkerCad](https://www.tinkercad.com/): free, in-the-browser, widget-based modeling application. An excellent introduction to 3D Modeling.
+* [SketchUp](http://www.sketchup.com/): free, 
+* [OpenSCAD](http://www.openscad.org/): free, scripting-oriented developer environment. Particularly good for parametric design work.
+* [SolidWorks](http://www.solidworks.com/)
 
 
 ## misc notes
