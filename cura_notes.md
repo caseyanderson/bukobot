@@ -40,8 +40,8 @@ The Bukobot can print with either `PLA` or `ABS` material. If this is your first
 Recommended 3D Modeling applications:
 * [TinkerCad](https://www.tinkercad.com/): free, in-the-browser, widget-based modeling application. An excellent introduction to 3D Modeling. Virtually no learning curve.
 * [OpenSCAD](http://www.openscad.org/): free, scripting-oriented developer environment. Particularly good for parametric design work. An excellent intermediate modeling application. Mild learning curve.
-* [Blender](https://www.blender.org/): professional free, open-source 3D computer graphics software application for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games. Moderate learning curve.
-* [SolidWorks](http://www.solidworks.com/): $$$, solid modeling computer-aided design/computer-aided engineering application that runs on Microsoft Windows (only). If you fall in love with 3D modeling this is considered one of the standard platforms. Moderate-to-heavy learning curve. Note that this application is on most PCs on campus at ArtCenter.
+* [Blender](https://www.blender.org/): professional, free, open-source 3D computer graphics software application for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games. Moderate learning curve.
+* [SolidWorks](http://www.solidworks.com/): $$$, professional, solid modeling computer-aided design/computer-aided engineering application that (ONLY) runs on Windows. If you fall in love with 3D modeling this is considered one of the standard tools. Moderate-to-heavy learning curve. Note that this application is on most PCs on campus at ArtCenter.
 
 
 ### Acquiring a Part:
@@ -49,7 +49,7 @@ Recommended 3D Modeling applications:
 Recommended sources for pre-existing model files:
 * [Thingiverse](https://www.thingiverse.com/): free 3D objects made to share amongst the community.
 * [Youmagine](https://www.youmagine.com/): free 3D objects made to share amongst the community.
-* [Shapeways](http://www.shapeways.com/): a marketplace for objects and downloadable models.
+* [Shapeways](http://www.shapeways.com/): $$$, a marketplace for objects and downloadable models.
 * [3D Warehouse](https://3dwarehouse.sketchup.com/index.html): an open source library where SketchUp users can upload and download 3D models to share. Predominantly architectural and interior design models.
 
 
