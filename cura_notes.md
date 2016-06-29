@@ -2,12 +2,13 @@
 
 Relevant Links:
 * [Bukobot Instructions and Docs](http://bukobot.com/Bukobot%203D%20Printer)
+* [Bukobot and Blender Config](http://bukobot.com/blender-notes) and [Exporting](http://bukobot.com/blender-manifold-and-exporting)
 * [Cura Documentation](https://ultimaker.com/en/products/cura-software)
 
 
 ## Overview
 
-In order to print objects (referred to as "parts") on the `Bukobot` you need an `STL` file and a `slicing` application. Deezmaker and the MDP/Making lab both recommend [Cura](https://ultimaker.com/en/products/cura-software) for slicing. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into small layers (referred to as `slicing`).
+In order to print objects (referred to as `parts`) on the `Bukobot` you need an `STL` file and a `slicing` application. Deezmaker and the MDP/Making lab both recommend [Cura](https://ultimaker.com/en/products/cura-software) for slicing. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into small layers (referred to as `slicing`).
 
 After configuring `Cura` for the appropriate material type and print resolution the part must be `sliced`. The Bukobot uses an additive technology called `Fused Deposition Modeling` (`FDM`) in which layers of material are laid down to create the part. Slicing cuts the part into a series of layers that are extruded onto the printer platform (frequently called the `bed`), one at a time, building the part from bottom to top.
 
@@ -40,7 +41,18 @@ Recommended 3D Modeling applications:
 * [TinkerCad](https://www.tinkercad.com/): free, in-the-browser, widget-based modeling application. An excellent introduction to 3D Modeling. Virtually no learning curve.
 * [OpenSCAD](http://www.openscad.org/): free, scripting-oriented developer environment. Particularly good for parametric design work. An excellent intermediate modeling application. Mild learning curve.
 * [Blender](https://www.blender.org/): professional free, open-source 3D computer graphics software application for creating animated films, visual effects, art, 3D printed models, interactive 3D applications and video games. Moderate learning curve.
-* [SolidWorks](http://www.solidworks.com/): $$$, solid modeling computer-aided design/computer-aided engineering computer program that runs on Microsoft Windows (only). If you fall in love with 3D modeling this is considered one of the standard platforms. Moderate-to-heavy learning curve.
+* [SolidWorks](http://www.solidworks.com/): $$$, solid modeling computer-aided design/computer-aided engineering application that runs on Microsoft Windows (only). If you fall in love with 3D modeling this is considered one of the standard platforms. Moderate-to-heavy learning curve. Note that this application is on most PCs on campus at ArtCenter.
+
+
+### Acquiring a Part:
+
+Recommended sources for pre-existing model files:
+* [Thingiverse](https://www.thingiverse.com/): free 3D objects made to share amongst the community.
+* [Youmagine](https://www.youmagine.com/): free 3D objects made to share amongst the community.
+* [Shapeways](http://www.shapeways.com/): a marketplace for objects and downloadable models.
+* [3D Warehouse](https://3dwarehouse.sketchup.com/index.html): an open source library where SketchUp users can upload and download 3D models to share. Predominantly architectural and interior design models.
+
+
 
 
 ## misc notes
