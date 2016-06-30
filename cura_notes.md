@@ -8,7 +8,7 @@ Relevant Links:
 
 ## Overview
 
-In order to print objects (referred to as `parts`) on the `Bukobot` you need an `STL` file and a `slicing` application. Deezmaker and the MDP/Making lab both recommend [Cura](https://ultimaker.com/en/products/cura-software) for slicing. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into small layers (referred to as `slicing`).
+In order to print objects (referred to as `parts`) on the `Bukobot` one needs an `STL` file and a `slicing` application. Deezmaker and the MDP/Making lab recommend using [Cura](https://ultimaker.com/en/products/cura-software) to control the Bukobot and configure settings. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into printable layers (referred to as `slicing`).
 
 After configuring `Cura` for the appropriate material type and print resolution the part must be `sliced`. The Bukobot uses an additive technology called `Fused Deposition Modeling` (`FDM`) in which layers of material are laid down to create the part. Slicing cuts the part into a series of layers that are extruded onto the printer platform (frequently called the `bed`), one at a time, building the part from bottom to top.
 
@@ -31,8 +31,8 @@ The Bukobot can print with either `PLA` or `ABS` material. If this is your first
 
 3D Printers get information regarding a particular design via STL files. In order to print something, one must get an STL file via one of two possible methods:
 
-* creating one via some 3D Modeling application
-* locating one via some online repository
+* **Creating a Part** via some 3D Modeling application
+* **Acquiring a Part** via some online repository
 
 
 ### Creating a Part
