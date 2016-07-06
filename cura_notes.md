@@ -29,7 +29,7 @@ The Bukobot can print with either `PLA` or `ABS` material. If this is your first
 
 ## Creating / Acquiring a Part
 
-3D Printers get information regarding a particular design via STL files. In order to print something, one must get an STL file via one of two possible methods:
+3D Printers get information regarding a particular design via `STL` files. In order to print something, one must get an `STL` file via one of two possible methods:
 
 * **Creating a Part** via some 3D Modeling application
 * **Acquiring a Part** via some online repository
@@ -66,7 +66,7 @@ Recommended sources for pre-existing model files:
 1. Put your `STL` file on the computer.
 2. In Cura, click the `Load` button and navigate to your file to import. The button looks like this: ![](/screenshots/load_file.png)
 3. Now that your object is on the `platform` (the word Cura uses to refer to the `bed`) you can make alterations to it including:
- * `rotate`: rotates the orientation of the STL file on the platform (X, Y, or Z via axes). Notice that this button also reveals `lay flat` (i.e. "force this object to rest on the platform" ) and `reset` options. By default rotation changes are in increments of 15 degrees. `Shift-clicking` on the model will enable one to rotate in increments of 1 degree.
+ * `rotate`: rotates the orientation of the `STL` file on the platform (X, Y, or Z via axes). Notice that this button also reveals `lay flat` (i.e. "force this object to rest on the platform" ) and `reset` options. By default rotation changes are in increments of 15 degrees. `Shift-clicking` on the model will enable one to rotate in increments of 1 degree.
  * `scale`: adjusts the size of the object. To increase its size change the scale to a number greater than 1, to decrease change scale to a number less than 1. By default `Uniform scale` is locked, however one can override it by clicking on the lock. Additionally, the `To max` button increases the object's size to the maximum print size available on the Bukobot.
  * `mirror`: flips the model on the X, Y, or Z axes.
 
