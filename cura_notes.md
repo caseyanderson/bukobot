@@ -53,6 +53,27 @@ Recommended sources for pre-existing model files:
 * [3D Warehouse](https://3dwarehouse.sketchup.com/index.html): an open source library where SketchUp users can upload and download 3D models to share. Predominantly architectural and interior design models.
 
 
+## Powering the CPU and Bukobot
+
+1. Login to the Macmini connected to the Bukobot
+2. Plug the power cable for the Bukobot in. If the Bukobot's fan is spinning the machine is on.
+3. Open Cura. You should see a window that looks like the photo below.
+
+INSERT PHOTO HERE
+
+## Configuration
+
+1. Put your `STL` file on the computer.
+2. In Cura, click the `Load` button and navigate to your file to import. The button looks like this:
+
+INSERT PHOTO HERE
+
+3. Now that your object is on the platform (the word Cura uses to refer to the bed) you can make alterations to it including:
+
+ * **rotate**: rotate the orientation of the STL file on the platform via any axis (X, Y, or Z). Notice that this button also reveals "lay flat" (i.e. "force this object to rest on the platform" ), and "reset" options.
+ * **scale**:
+
+ "To max" (i.e. "scale object to maximum print size for the Bukobot"),
 
 
 ## misc notes
