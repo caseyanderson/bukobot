@@ -70,11 +70,9 @@ INSERT PHOTO HERE
 
 3. Now that your object is on the platform (the word Cura uses to refer to the bed) you can make alterations to it including:
 
- * **rotate**: rotate the orientation of the STL file on the platform via any axis (X, Y, or Z). Notice that this button also reveals "lay flat" (i.e. "force this object to rest on the platform" ), and "reset" options.
- * **scale**:
-
- "To max" (i.e. "scale object to maximum print size for the Bukobot"),
-
+ * **rotate**: rotates the orientation of the STL file on the platform (X, Y, or Z via axes). Notice that this button also reveals `lay flat` (i.e. "force this object to rest on the platform" ) and `reset` options. By default rotation changes are in increments of 15 degrees. `Shift-clicking` on the model will enable one to rotate in increments of 1 degree.
+ * **scale**: adjusts the size of the object. To increase its size change the scale to a number greater than 1, to decrease change scale to a number less than 1. By default `Uniform scale` is locked, however one can override it by clicking on the lock. Additionally, the `To max` button increases the object's size to the maximum print size available on the Bukobot.
+ * **mirror**:
 
 ## misc notes
 
