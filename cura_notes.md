@@ -72,7 +72,7 @@ Recommended sources for pre-existing model files:
 
 ## Print Configuration
 
-The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. To give an idea of how long
+The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. For example, we recommend planning to use the machine for at least an hour as well as assuming that you will have to print the object multiple times to get optimal results.
 
 ## misc notes
 
