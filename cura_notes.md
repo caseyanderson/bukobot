@@ -2,7 +2,6 @@
 
 Relevant Links:
 * [Bukobot Instructions and Docs](http://bukobot.com/Bukobot%203D%20Printer)
-* [Bukobot and Blender Config](http://bukobot.com/blender-notes) and [Exporting](http://bukobot.com/blender-manifold-and-exporting)
 * [Cura Documentation](https://ultimaker.com/en/products/cura-software)
 
 
@@ -74,14 +73,11 @@ Recommended sources for pre-existing model files:
 
 The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. For example, we recommend planning to use the machine for at least an hour as well as assuming that you will have to print the object multiple times to get optimal results.
 
-## misc notes
+In general, our recommended profile settings are  [here](https://github.com/caseyanderson/bukobot/blob/master/cura_settings_pla.ini). Simply download this file and load it into Cura by navigating to `File > Open Profile` and then selecting `cura_settings_pla.ini`. Start with these settings for job attempt number 1 and augment to suit your needs as necessary for successive jobs.
 
-## switching views
 
-switching views: `Expert` > `Switch to quickprint` or `Switch to full settings`
+## Best Practices
 
-`File` > `Preferences` > `Printing Window Type` > `Pronterface UI`
-
-Then click ` Ok`
-
-Sometimes the nozzle gets really, really jammed!
+* Do not expect your object to turn out perfectly the first time your print it
+* Do not walk away from the Bukobot while a job is running
+* Keep a close eye on how the material is sitting in the spool It is easy for the material to get tangled, which can cause gaps to appear in your model, which could ruin your object
