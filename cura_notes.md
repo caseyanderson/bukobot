@@ -1,13 +1,13 @@
-# Printing on the Bukobot
+# Printing on the MAKEiT Pro-L
 
 Relevant Links:
-* [Bukobot Instructions and Docs](http://bukobot.com/Bukobot%203D%20Printer)
+* [User Manual](http://makeit-3d.com/manuals/safe-operation/)
 * [Cura Documentation](https://ultimaker.com/en/products/cura-software)
 
 
 ## Overview
 
-In order to print objects (referred to as `parts`) on the `Bukobot` one needs an `STL` file and a `slicing` application. Deezmaker and the MDP/Making lab recommend using [Cura](https://ultimaker.com/en/products/cura-software) to control the Bukobot and configure settings. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into printable layers (referred to as `slicing`).
+In order to print objects (referred to as `parts`) on the `MAKEiT Pro-L` one needs an `STL` file and a `slicing` application. The MDP/Making lab recommends using [Cura](https://ultimaker.com/en/products/cura-software) to control the MAKEiT Pro-L and configure settings. When used in conjunction with `PronterfaceUI`, `Cura` can both issue commands to the machine (referred to as `hosting`) and divide one's file into printable layers (referred to as `slicing`).
 
 After configuring `Cura` for the appropriate material type and print resolution the part must be `sliced`. The Bukobot uses an additive technology called `Fused Deposition Modeling` (`FDM`) in which layers of material are laid down to create the part. Slicing cuts the part into a series of layers that are extruded onto the printer platform (frequently called the `bed`), one at a time, building the part from bottom to top.
 
@@ -19,7 +19,7 @@ To save material, and print faster, the interior of a part is printed in an effi
 
 ## Printing Materials
 
-The Bukobot can print with either `PLA` or `ABS` material. If this is your first time using the Bukobot we recommend starting with `PLA`.
+The MAKEiT Pro-L can print with a variety of types of filaments, including composites, but we most frequently use `PLA` or `ABS`. If this is your first time using the MAKEiT Pro-L we recommend starting with `PLA`. A comprehensive list of filaments compatible with the MAKEiT Pro-L can be found [here](https://docs.google.com/document/d/1sQOWlWHHhXkFBV1JvaBUknFijHSoFLpVIfs02uuHX50/edit?usp=sharing).
 
 ### PLA vs ABS:
 * `PLA` – Made from plants, is more environmentally friendly, and easier to work with than `ABS`. `PLA` is more rigid, but also more brittle than `ABS`, and does not require the printer platform to be heated.
