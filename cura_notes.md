@@ -69,6 +69,23 @@ Recommended sources for pre-existing model files:
  * `scale`: adjusts the size of the object. To increase its size change the scale to a number greater than 1, to decrease change scale to a number less than 1. By default `Uniform scale` is locked, however one can override it by clicking on the lock. Additionally, the `To max` button increases the object's size to the maximum print size available on the MAKEiT Pro-L.
  * `mirror`: flips the model on the X, Y, or Z axes.
 
+## Machine Calibration
+
+The MDP/Making lab recommends performing a few standard calibration procedures prior to starting every job. These procedures include checking to make sure the bed is level on the X and Y axes as well as resetting the nozzle distance (or checking the Z-height).
+
+### Calibration Procedure
+
+1. Press the knob down to enter the `Setup` Menu.
+2. Scroll down (turn the knob to the left) until the arrow is pointing to `Calibration`. Press the knob down to enter this section of the Menu.
+3. Scroll down until the arrow is pointing at `X-axis leveling`. Press the knob down to initiate the X-axis leveling check. The check is complete when the menu reads "Left and right are leveled" and the nozzle returns to the home position.
+4. Press the knob down once more to return to the `Calibration` menu.
+5. Scroll until the arrow is pointing at `Y-axis leveling`. Push the knob down to initiate the `Y-axis level check`. The check is complete when the menu reads "Left edge leveled, Right edge leveled, Click to proceed."
+6. Press the knob down to return to the `Calibration` menu.
+7. Scroll until the arrow is point at `Nozzle distance`. Push the knob down to initiate nozzle distance calibration. It will take some time for the Pro-L to clean and heat the extruder nozzle. When the nozzle moves to the center of the bed you are ready to move to the next step.
+8. Find a post-it note and then slide it between the bottom of the `nozzle` and the top of the `bed`.
+9. While moving the post-it note around notice the amount of resistance opposing its movement. We want some resistance but not so much that we cannot easily move the post-it note. Use the knob on the right to change the Offset distance, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance. An offset of 1.35 seems to be a good distance.
+10. Press the knob down to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step.
+
 ## Print Configuration
 
 The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. For example, we recommend planning to use the machine for at least an hour as well as assuming that you will have to print the object multiple times to get optimal results.
@@ -80,4 +97,4 @@ In general, our recommended profile settings can be found on the Desktop of the 
 
 * Do not expect your object to turn out perfectly the first time your print it
 * Do not walk away from the MAKEiT Pro-L while a job is running
-* Keep a close eye on how the material is sitting in the spool It is easy for the material to get tangled, which can cause gaps to appear in your model, which could ruin your object
+* Keep a close eye on how the material is sitting in the spool. It is easy for the material to get tangled, which can cause gaps to appear, which will ruin your object
