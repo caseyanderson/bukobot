@@ -78,25 +78,25 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 ### Calibration Procedure
 
 1. Press the knob down (i.e. click) to enter the `Setup` Menu.
-2. Scroll down (turn the knob to the left) until the arrow is pointing to `Calibration`. Click to enter this section of the Menu.
+2. Scroll down (turn the knob to the left) until the arrow is pointing to `Calibration`. Click to proceed.
 3. Scroll down until the arrow is pointing at `X-axis leveling`. Click to initiate the X-axis leveling check. The check is complete when the menu reads "Left and right are leveled" and the nozzle returns to the home position.
-4. Click once more to return to the `Calibration` menu.
+4. Click to return to the `Calibration` menu.
 5. Scroll until the arrow is pointing at `Y-axis leveling`. Click to initiate the `Y-axis level check`. The check is complete when the menu reads "Left edge leveled, Right edge leveled, Click to proceed."
 6. Click to return to the `Calibration` menu.
 7. Scroll until the arrow is pointing at `Nozzle distance`. Click to initiate nozzle distance calibration. It will take some time for the Pro-L to clean and heat the extruder nozzle (both of which are required for an accurate distance reading). When the nozzle moves to the center of the bed you are ready to move to the next step.
 8. Find a post-it note and slide it between the bottom of the `nozzle` and the top of the `bed`.
 9. While moving the post-it note between the `nozzle` and `bed` pay attention to the amount of resistance opposing its movement. Some resistance is important but we should be able to easily move the post-it note. Use the knob on the right to change the `Offset distance`, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance. An offset of 1.35 seems to be a good distance.
-10. Press the knob down to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step.
+10. Click to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step.
 
 
 ## Loading Filament
 
 1. Place filament on the two rollers on the right side of the printer. The material should unroll from the bottom for optimal results.
-2. Click the knob to enter the menu and navigate to `Filament`.
-3. Scroll until the arrow is pointing at `Filament 1` and then click.
-4. Gently unroll enough filament to go into the hole directly in front of where the filament is currently sitting. Hold it here while you move on to the next step.
-5. Scroll until the arrow is pointing at `Insert filament1` and click. You will feel the machine grab the filament, which is your cue to let go of it. If the extruder nozzle is not hot enough to melt the filament yet the machine will hold it in place until it reaches the proper temperature.
-6. Click the knob to exit this part of the menu and return to the home screen.
+2. Click to enter the menu and navigate to `Filament`.
+3. Scroll until the arrow is pointing at `Filament 1`, click to proceed.
+4. Gently unroll enough filament to go into the hole directly in front of where the filament is currently sitting. Hold it here while you move to the next step.
+5. Scroll until the arrow is pointing at `Insert filament1` and click to proceed. You will feel the machine grab the filament, which is your cue to let go. If the extruder nozzle is not hot enough to melt the filament the machine will hold it in place until it reaches the proper temperature.
+6. Click to exit this part of the menu and return to the home screen.
 
 
 ## Print Configuration
@@ -108,7 +108,7 @@ In general, our recommended profile settings can be found on the Desktop of the 
 
 ## Cleanup Procedure
 
-1. Click the knob and scroll down to `Filament`.
+1. Click and scroll down to `Filament`.
 2. Scroll to `Filament 1`, click to proceed.
 3. Scroll to `Remove filament1`, click to proceed.
 4. After the Nozzle reaches 210 degrees the filament will automatically retract. If you are using the Making Lab's filament note that it **must be returned to its plastic bucket**.
