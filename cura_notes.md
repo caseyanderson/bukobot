@@ -106,6 +106,15 @@ The bulk of the work around 3D Printing goes into fine-tuning print configuratio
 In general, our recommended profile settings can be found on the Desktop of the Macmini attached to the MAKEiT Pro-L. Simply navigate to the profile that is write for your job and load it into Cura by navigating to `File > Open Profile` and then selecting the desired profile. Start with these settings for job attempt number 1 and augment to suit your needs as necessary for successive jobs.
 
 
+## Cleanup Procedure
+
+1. Click the knob and scroll down to `Filament`
+2. Scroll to `Filament 1`, click to proceed
+3. Scroll to `Remove filament1`, click to proceed
+4. After the Nozzle reaches 210 degrees the filament will automatically retract. If you are using the Making Lab's filament note that it **must be returned to its plastic bucket**
+5. Power down the MAKEiT Pro-L, log out from the Macmini
+
+
 ## Best Practices
 
 * Do not expect your object to turn out perfectly the first time your print it
