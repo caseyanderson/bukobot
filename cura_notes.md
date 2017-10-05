@@ -60,6 +60,7 @@ Recommended sources for pre-existing model files:
 
 ![](/screenshots/cura_ui.png)
 
+
 ## Object Configuration
 
 1. Put your `STL` file on the computer.
@@ -68,6 +69,7 @@ Recommended sources for pre-existing model files:
  * `rotate`: rotates the orientation of the `STL` file on the platform (X, Y, or Z via axes). Notice that this button also reveals `lay flat` (i.e. "force this object to rest on the platform" ) and `reset` options. By default rotation changes are in increments of 15 degrees. `Shift-clicking` on the model will enable one to rotate in increments of 1 degree.
  * `scale`: adjusts the size of the object. To increase its size change the scale to a number greater than 1, to decrease change scale to a number less than 1. By default `Uniform scale` is locked, however one can override it by clicking on the lock. Additionally, the `To max` button increases the object's size to the maximum print size available on the MAKEiT Pro-L.
  * `mirror`: flips the model on the X, Y, or Z axes.
+
 
 ## Machine Calibration
 
@@ -86,7 +88,16 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 9. While moving the post-it note between the `nozzle` and `bed` pay attention to the amount of resistance opposing its movement. Some resistance is important but we should be able to easily move the post-it note. Use the knob on the right to change the `Offset distance`, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance. An offset of 1.35 seems to be a good distance.
 10. Press the knob down to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step.
 
+
 ## Loading Filament
+
+1. Place filament on the two rollers on the right side of the printer. The material should unroll from the bottom for optimal results.
+2. Click the knob to enter the menu and navigate to `Filament`.
+3. Scroll until the arrow is pointing at `Filament 1` and then click.
+4. Gently unroll enough filament to go into the hole directly in front of where the filament is currently sitting. Hold it here while you move on to the next step.
+5. Scroll until the arrow is pointing at `Insert filament1` and click. You will feel the machine grab the filament, which is your cue to let go of it. If the extruder nozzle is not hot enough to melt the filament yet the machine will hold it in place until it reaches the proper temperature.
+6. Click the knob to exit this part of the menu and return to the home screen.
+
 
 ## Print Configuration
 
