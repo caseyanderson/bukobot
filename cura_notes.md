@@ -55,7 +55,7 @@ Recommended sources for pre-existing model files:
 ## Powering the CPU and MAKEiT Pro-L
 
 1. Login to the Macmini connected to the MAKEiT Pro-L
-2. Turn the MAKEiT Pro-L on. If the MAKEiT Pro-L's fan is spinning the machine is on.
+2. Turn the MAKEiT Pro-L on. If the fan is spinning the machine is on.
 3. Open Cura. You should see a window that looks like the photo below.
 
 ![](/screenshots/cura_ui.png)
