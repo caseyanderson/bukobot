@@ -119,7 +119,7 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 
 </br>
 
-![load_02_1](https://user-images.githubusercontent.com/30060990/35246765-b0b60bdc-ff7c-11e7-9d8c-0892d5a98633.gif)
+![load_02_4](https://user-images.githubusercontent.com/30060990/35247231-7cdd3b30-ff7e-11e7-9cf6-f9f1fb880ad4.gif)
 
 </br>
 
