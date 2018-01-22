@@ -79,7 +79,11 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 
 1. Press the knob down (i.e. click) to enter the `Setup` Menu.
 
-    photo
+</br>
+
+    ![turn_on_calibrate_1](https://user-images.githubusercontent.com/30060990/35246684-6b911452-ff7c-11e7-92ce-c0e290685d78.gif)
+
+</br>
 
 2. Scroll down (turn the knob to the left) until the arrow is pointing to `Calibration`. Click to proceed.
 3. Scroll down until the arrow is pointing at `X-axis leveling`. Click to initiate the X-axis leveling check. The check is complete when the menu reads "Left and right are leveled" and the nozzle returns to the home position.
@@ -99,13 +103,25 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 
 1. Place filament on the two rollers on the right side of the printer. The material should unroll from the bottom for optimal results.
 
-    photo
+</br>
+
+![how_to_load_1](https://user-images.githubusercontent.com/30060990/35246729-93f79420-ff7c-11e7-9a75-2d0202338506.gif)
+
+</br>
 
 2. Click to enter the menu and navigate to `Filament`.
 3. Scroll until the arrow is pointing at `Filament 1`, click to proceed.
 4. Gently unroll enough filament to go into the hole directly in front of where the filament is currently sitting. Hold it here while you move to the next step.
 
-    photo
+</br>
+
+![load_01](https://user-images.githubusercontent.com/30060990/35246761-adcc20a0-ff7c-11e7-9b3e-0d93fb5543c8.gif)
+
+</br>
+
+![load_02_1](https://user-images.githubusercontent.com/30060990/35246765-b0b60bdc-ff7c-11e7-9d8c-0892d5a98633.gif)
+
+</br>
 
 5. Scroll until the arrow is pointing at `Insert filament1` and click to proceed. You will feel the machine grab the filament, which is your cue to let go. If the extruder nozzle is not hot enough to melt the filament the machine will hold it in place until it reaches the proper temperature.
 6. Click to exit this part of the menu and return to the home screen.
