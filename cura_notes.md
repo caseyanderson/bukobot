@@ -93,7 +93,12 @@ The MDP/Making lab recommends performing a few standard calibration procedures p
 7. Scroll until the arrow is pointing at `Nozzle distance`. Click to initiate nozzle distance calibration. It will take some time for the Pro-L to clean and heat the extruder nozzle (both of which are required for an accurate distance reading). When the nozzle moves to the center of the bed you are ready to move to the next step.
 8. Find a post-it note and slide it between the bottom of the `nozzle` and the top of the `bed`.
 
-    photo
+</br>
+
+
+![zspace](https://user-images.githubusercontent.com/30060990/35254981-909af694-ffa1-11e7-9840-110af3b3c87b.gif)
+
+</br>
 
 9. While moving the post-it note between the `nozzle` and `bed` pay attention to the amount of resistance opposing its movement. Some resistance is important but we should be able to easily move the post-it note. Use the knob on the right to change the `Offset distance`, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance. An offset of 1.35 seems to be a good distance.
 10. Click to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step.
