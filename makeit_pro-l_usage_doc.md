@@ -29,7 +29,7 @@ We recommend performing a few standard calibration procedures prior to starting 
 
 </br>
 
-    ![turn_on_calibrate_1](https://user-images.githubusercontent.com/30060990/35246684-6b911452-ff7c-11e7-92ce-c0e290685d78.gif)
+![turn_on_calibrate_1](https://user-images.githubusercontent.com/30060990/35246684-6b911452-ff7c-11e7-92ce-c0e290685d78.gif)
 
 </br>
 
