@@ -84,7 +84,7 @@ We recommend performing a few standard calibration procedures prior to starting 
 
 The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. For example, we recommend planning to use the machine for at least an hour as well as assuming that you will have to print the object multiple times to get optimal results.
 
-In general, our recommended profile settings can be found on the Desktop of the Macmini attached to the MAKEiT Pro-L. Simply navigate to the profile that is write for your job and load it into Cura by navigating to `File > Open Profile` and then selecting the desired profile. Start with these settings for job attempt number 1 and augment to suit your needs as necessary for successive jobs.
+In general, our recommended profile settings can be found on the Desktop of the Macmini attached to the MAKEiT Pro-L
 
 
 ## Running the Job
