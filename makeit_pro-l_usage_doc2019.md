@@ -12,7 +12,7 @@
 ## Object Configuration
 
 1. Put your `STL` file on the computer.
-2. In Cura, click the `Load` button and navigate to your file to import. The button looks like this: ![](/screenshots/load_file.png)
+2. In Cura, click the `File > Open File(s)` in the menu and navigate to your file to import.
 3. Now that your object is on the `platform` (the word Cura uses to refer to the `bed`) you can make alterations to it including:
  * `rotate`: rotates the orientation of the `STL` file on the platform (X, Y, or Z via axes). Notice that this button also reveals `lay flat` (i.e. "force this object to rest on the platform" ) and `reset` options. By default rotation changes are in increments of 15 degrees. `Shift-clicking` on the model will enable one to rotate in increments of 1 degree.
  * `scale`: adjusts the size of the object. To increase its size change the scale to a number greater than 1, to decrease change scale to a number less than 1. By default `Uniform scale` is locked, however one can override it by clicking on the lock. Additionally, the `To max` button increases the object's size to the maximum print size available on the MAKEiT Pro-L.
@@ -85,6 +85,13 @@ We recommend performing a few standard calibration procedures prior to starting 
 The bulk of the work around 3D Printing goes into fine-tuning print configuration settings for the job at hand. This is not a fast process and generally involves a lot of trial and error. For example, we recommend planning to use the machine for at least an hour as well as assuming that you will have to print the object multiple times to get optimal results.
 
 In general, our recommended profile settings can be found on the Desktop of the Macmini attached to the MAKEiT Pro-L. Simply navigate to the profile that is write for your job and load it into Cura by navigating to `File > Open Profile` and then selecting the desired profile. Start with these settings for job attempt number 1 and augment to suit your needs as necessary for successive jobs.
+
+
+## Running the Job
+
+1. Click `Slice`to divide your part into layers. After the file is processed one should a time estimate for the job
+2. Apply a layer of gluestick to the area surrounding the location of your object on the build plate
+3. Click `Print via USB` to run the job
 
 
 ## Cleanup Procedure
