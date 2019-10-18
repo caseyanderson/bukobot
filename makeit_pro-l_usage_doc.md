@@ -98,7 +98,7 @@ In general, our recommended profile settings can be found on the Desktop of the 
 
 1. Click and scroll down to `Filament`
 2. Scroll to `Filament 1`, click to proceed
-3. Scroll to `Remove filament1`, click to proceed
+3. Scroll to `Remove Filament1`, click to proceed
 4. After the Nozzle heats up the filament will automatically retract. If you are using the Making Lab's filament note that it **must be returned to its plastic bucket**
 5. Power down the MAKEiT Pro-L
 6. Log out from the Macmini
