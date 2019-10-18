@@ -48,7 +48,7 @@ We recommend performing a few standard calibration procedures prior to starting 
 
 </br>
 
-9. While moving the post-it note between the `nozzle` and `bed` pay attention to the amount of resistance opposing its movement. Some resistance is important but we should be able to easily move the post-it note. Use the knob on the right to change the `Offset distance`, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance. An offset of 1.66 seems to be a good distance
+9. While moving the post-it note between the `nozzle` and `bed` pay attention to the amount of resistance opposing its movement. Some resistance is important but we should be able to easily move the post-it note. Use the knob on the right to change the `Offset distance`, increasing the number if the post-it note doesn't move and decreasing it if it moves without resistance
 10. Click to exit `Nozzle distance` calibration. When the nozzle returns `home` you are ready to move to the next step
 
 
