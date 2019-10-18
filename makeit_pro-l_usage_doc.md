@@ -109,5 +109,5 @@ In general, our recommended profile settings can be found on the Desktop of the 
 ## Best Practices
 
 * Do not expect your object to turn out perfectly the first time your print it
-* Do not walk away from the MAKEiT Pro-L while a job is running
+* Do not walk away from the MAKEiT Pro-L until the first few layers have completed successfully. For very long jobs plan to check in on the machine every fifteen minutes
 * Keep a close eye on how the material is sitting in the spool. It is easy for the material to get tangled, which can cause gaps to appear, which will ruin your object
